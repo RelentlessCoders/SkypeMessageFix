@@ -1,0 +1,12 @@
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\Interop.SKYPE4COMLib.dll
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.ResolveComReference.cache
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+c:\users\buzzerd89\documents\visual studio 2013\Projects\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
